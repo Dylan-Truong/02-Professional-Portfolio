@@ -12,3 +12,4 @@ For this challenge, I created a portfolio to showcase my skills and knowledge I'
 
 Link to my deployed application: https://dylan-truong.github.io/02-Professional-Portfolio/
 
+![professional-portfolio](https://user-images.githubusercontent.com/96098935/154897314-dbbc82f4-a606-46c3-8c2d-ecc022788697.png)
