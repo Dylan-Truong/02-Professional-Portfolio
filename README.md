@@ -10,4 +10,5 @@ For this challenge, I created a portfolio to showcase my skills and knowledge I'
 * Dimensions on multiple screens for phones and tablets works functionally.
 * Included hover effects on navigation links, projects, and socials.
 
-Link to my deployed application: 
+Link to my deployed application: https://dylan-truong.github.io/02-Professional-Portfolio/
+
